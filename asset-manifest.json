@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/travel_site/github.io/static/css/main.64cd1956.chunk.css",
+    "main.js": "/travel_site/github.io/static/js/main.c43fdb69.chunk.js",
+    "main.js.map": "/travel_site/github.io/static/js/main.c43fdb69.chunk.js.map",
+    "runtime-main.js": "/travel_site/github.io/static/js/runtime-main.bb7b45d4.js",
+    "runtime-main.js.map": "/travel_site/github.io/static/js/runtime-main.bb7b45d4.js.map",
+    "static/js/2.5849f444.chunk.js": "/travel_site/github.io/static/js/2.5849f444.chunk.js",
+    "static/js/2.5849f444.chunk.js.map": "/travel_site/github.io/static/js/2.5849f444.chunk.js.map",
+    "index.html": "/travel_site/github.io/index.html",
+    "static/css/main.64cd1956.chunk.css.map": "/travel_site/github.io/static/css/main.64cd1956.chunk.css.map",
+    "static/js/2.5849f444.chunk.js.LICENSE.txt": "/travel_site/github.io/static/js/2.5849f444.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/travel_site/github.io/static/media/img-8.fabdf94d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bb7b45d4.js",
+    "static/js/2.5849f444.chunk.js",
+    "static/css/main.64cd1956.chunk.css",
+    "static/js/main.c43fdb69.chunk.js"
+  ]
+}
